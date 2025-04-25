@@ -40,7 +40,7 @@ users = {}
 
 @app.route("/")
 def landing_page():
-    return render_template("Webindex.html")
+    return render_template("webindex.html")
 
 @app.route("/auth")
 def auth_page():
