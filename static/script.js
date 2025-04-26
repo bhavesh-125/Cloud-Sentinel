@@ -1,4 +1,4 @@
-const API_BASE = "https://cloudsentinel-backend-2.onrender.com";
+const API_BASE = " http://0.0.0.0:10000";
 let token = localStorage.getItem("token");
 
 window.onload = function () {
