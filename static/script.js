@@ -1,4 +1,4 @@
-const API_BASE = "http://0.0.0.0:10000";
+const API_BASE = "https://cloud-sentinel-4qtr.onrender.com";
 let token = localStorage.getItem("token");
 
 window.onload = function () {
